@@ -8,7 +8,7 @@ e<form action="action_page.php">
     <input type="text" placeholder="Enter  Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter mobile number</b></label>
+    <label for="mobile"><b>Enter Mobile Number</b></label>
     <input type="text" placeholder="Enter number" name="mobile" id="mobile" required>
     <br>
 
