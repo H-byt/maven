@@ -4,7 +4,7 @@ e<form action="action_page.php">
     <p>form to create an new account for User.</p>
     <hr>
      
-    <label for="Name"><b>Enter Name user</b></label>
+    <label for="Name"><b>Enter Name User</b></label>
     <input type="text" placeholder="Enter  Name" name="Name" id="Name" required>
     <br>
     
