@@ -1,7 +1,7 @@
 e<form action="action_page.php">
   <div class="container">
     <h1> DevOps class room Learning</h1>
-    <p>form to create an new account for user.</p>
+    <p>form to create an new account .</p>
     <hr>
      
     <label for="Name"><b>Enter Name User</b></label>
